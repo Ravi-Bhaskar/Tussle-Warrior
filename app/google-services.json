@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175040516893",
+    "project_id": "musicworld-4f9d6",
+    "storage_bucket": "musicworld-4f9d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175040516893:android:2121a563e42989f26e07f4",
+        "android_client_info": {
+          "package_name": "com.example.gamingworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175040516893-b47oei071gjli7hjluv4c77ppqtloofr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVaGFHM45KRxcRUgQZTQStwkB6ayDX1-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175040516893-b47oei071gjli7hjluv4c77ppqtloofr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
